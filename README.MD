@@ -3,7 +3,6 @@ Codes to install for the unit test in VSC Terminal command prompt and ensure tha
 npm install @testing-library/react-native
 npm install jest-expo jest
 
-
 In package.json add this config:
 "scripts": {
   "test": "jest"
