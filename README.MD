@@ -19,3 +19,5 @@ npm install react@19.2.3 react-test-renderer@19.2.3 --save-exact
 For running testing the test:
 
 npm test 
+
+For the results, the web and the node test should fail but the Android and Ios shoild be pass. If a timeout error of exceed 500ms is thrown, run npm test again.
